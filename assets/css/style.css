@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*
+* The header* family of classes support styles of the header element
+*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +51,9 @@ a {
 p {
     font-size: 16px;
 }
+/*
+* The hero* hero of classes support styles of the hero articles
+*/
 .hero-caption {
     color: transparent;
 }
@@ -79,7 +84,7 @@ p {
 }
 
 /*
-* This is the class to 
+* The benefit* family of classes support styles of the aside articles
 */
 .benefits {
     margin-right: 20px;
@@ -193,7 +198,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*
+* The footer* family of classes support styles of the footer attributes
+*/
 .footer {
     padding: 30px;
     clear: both;
