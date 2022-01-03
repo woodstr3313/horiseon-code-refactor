@@ -49,6 +49,9 @@ a {
 p {
     font-size: 16px;
 }
+.hero-caption {
+    color: transparent;
+}
 
 .hero {
     height: 800px;
