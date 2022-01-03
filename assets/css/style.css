@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 /*
-* The hero* hero of classes support styles of the hero articles
+* The hero* family of classes support styles of the hero article elements
 */
 .hero-caption {
     color: transparent;
@@ -199,7 +199,7 @@ p {
     font-size: 36px;
 }
 /*
-* The footer* family of classes support styles of the footer attributes
+* The footer* family of classes support styles of the footer elements
 */
 .footer {
     padding: 30px;
